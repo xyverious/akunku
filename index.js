@@ -8,4 +8,4 @@ client.on("ready", () => {
     });
 });
 
-client.login("NDkxMDU0MTMyNTQzNzUwMTQ2.YmctkA.b4tktWxyDJvjKYlE-EcRrwJwacc");
+client.login("NDkxMDU0MTMyNTQzNzUwMTQ2.GO8DYx.c_y1xr3Iw2BJ9RLHMqH0vvpwduREzU8shGrnf8");
